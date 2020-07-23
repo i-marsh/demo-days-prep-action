@@ -1,7 +1,7 @@
 {
   "name": "demo-days-prep-action",
   "version": "1.0.0",
-  "description": "demo js action",
+  "description": "action build on JS with codespaces",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,15 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/i-marsh/demo-days-prep-action.git"
   },
-  "keywords": [
-    "demo",
-    "javascript",
-    "actions"
-  ],
-  "author": "i-marsh",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/i-marsh/demo-days-prep-action/issues"
   },
-  "homepage": "https://github.com/i-marsh/demo-days-prep-action#readme"
+  "homepage": "https://github.com/i-marsh/demo-days-prep-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0"
+  }
 }
