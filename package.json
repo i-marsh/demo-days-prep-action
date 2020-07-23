@@ -1,0 +1,24 @@
+{
+  "name": "demo-days-prep-action",
+  "version": "1.0.0",
+  "description": "demo js action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-marsh/demo-days-prep-action.git"
+  },
+  "keywords": [
+    "demo",
+    "javascript",
+    "actions"
+  ],
+  "author": "i-marsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i-marsh/demo-days-prep-action/issues"
+  },
+  "homepage": "https://github.com/i-marsh/demo-days-prep-action#readme"
+}
